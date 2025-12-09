@@ -1,4 +1,4 @@
-# Compulsory Assignment 1 in ADTS2310 - Software Testing
+# Assignment 1 in ADTS2310 - Software Testing
 
 This assignment is a submission in Software Testing.
 ## Task description
